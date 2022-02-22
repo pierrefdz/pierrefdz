@@ -28,4 +28,4 @@ Curently working on watermarking for images and content protection.
   </a>
 </p>
 
-<p align="left"> <img width="60%" src="https://github-readme-stats.vercel.app/api?username=pierrefdz&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=radical&card_width=300&bg_color=22272e&border_color=444c56" alt="pierrefdz" /></p>
+<p align="left"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=pierrefdz&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=radical&card_width=300&bg_color=22272e&border_color=444c56" alt="pierrefdz" /></p>
