@@ -6,7 +6,7 @@
 <h4 align="left">📫 How to reach me</h3>
 
 
-<p align="center">
+<p align="left">
   <a href="mailto:pierre.fernandez@polytechnique.edu">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
   </a>
