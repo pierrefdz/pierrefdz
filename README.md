@@ -7,19 +7,19 @@
 
 
 <p align="left">
-  <a href="mailto:pierre.fernandez@polytechnique.edu" class="social">
+  <a href="mailto:pierre.fernandez@polytechnique.edu" style="margin-right:10px">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
   </a>
-  <a href="https://twitter.com/pierrefdz" target="blank">
+  <a href="https://twitter.com/pierrefdz" target="blank" style="margin-right:10px">
     <img src="https://img.shields.io/twitter/follow/pierrefdz?label=Twitter&logo=twitter&style=for-the-badge&colorA=302D41&colorB=96CDFB" alt="Twitter" />
   </a>
-  <a href="https://github.com/pierrefdz?tab=followers">
+  <a href="https://github.com/pierrefdz?tab=followers" style="margin-right:10px">
     <img src="https://img.shields.io/github/followers/pierrefdz?label=Followers&logo=GitHub&style=for-the-badge&colorA=302D41&colorB=F5E0DC" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/pierrefdz/" target="blank">
+  <a href="https://www.linkedin.com/in/pierrefdz/" target="blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&colorA=302D41&colorB=89DCEB" alt="Linkedin" />
   </a>
-  <a href="https://instagram.com/pics.with.ai" target="blank">
+  <a href="https://instagram.com/pics.with.ai" target="blank" style="margin-right:10px">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&colorA=302D41&colorB=F28FAD" alt="Instagram" />
   </a>
 </p>
