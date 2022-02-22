@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="title.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <h1 align="left">Pierre Fernandez, incoming PhD student at Inria and Meta AI.</h1>
 <h3 align="left">Curently working on watermarking for images and content protection.</h3>  
 
