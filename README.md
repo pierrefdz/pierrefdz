@@ -1,4 +1,4 @@
-<h1 align="left">Pierre Fernandez,</h1><h3 display="inline" align="left">Incoming PhD student at Inria and Meta AI.</h3> 
+<h1 align="left">Pierre Fernandez,</h1><h3 style="display:inline-block" align="left">Incoming PhD student at Inria and Meta AI.</h3> 
 <h3 align="left">Curently working on watermarking for images and content protection.</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrefdz&style=flat-square&color=444444&label=Views" alt="pierrefdz" /> </p>
@@ -10,7 +10,7 @@
   <a href="mailto:pierre.fernandez@polytechnique.edu">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
   </a>
-  <p/>
+  &nbsp;
   <a href="https://twitter.com/pierrefdz" target="blank">
     <img src="https://img.shields.io/twitter/follow/pierrefdz?label=Twitter&logo=twitter&style=for-the-badge&colorA=302D41&colorB=96CDFB" alt="Twitter" />
   </a>
