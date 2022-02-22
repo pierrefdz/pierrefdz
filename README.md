@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <a href="mailto:pierre.fernandez@polytechnique.edu" style="margin-right: 10px">
+  <a href="mailto:pierre.fernandez@polytechnique.edu" class="social">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
   </a>
   <a href="https://twitter.com/pierrefdz" target="blank">
