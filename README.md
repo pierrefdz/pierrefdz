@@ -1,8 +1,7 @@
-# Pierre Fernandez,
-___
-Incoming PhD student at Inria and Meta AI.
+## Pierre Fernandez,
+*Incoming PhD student at Inria and Meta AI.*
 
-#### Curently working on watermarking for images and content protection. 
+Curently working on watermarking for images and content protection. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrefdz&style=flat-square&color=444444&label=Views" alt="pierrefdz" /> </p>
 
