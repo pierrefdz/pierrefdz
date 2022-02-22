@@ -1,10 +1,12 @@
-<h1 align="left">Pierre Fernandez,</h1>Incoming PhD student at Inria and Meta AI.
-<h3 align="left">Curently working on watermarking for images and content protection.</h3>  
+# Pierre Fernandez,
+___
+Incoming PhD student at Inria and Meta AI.
+
+#### Curently working on watermarking for images and content protection. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrefdz&style=flat-square&color=444444&label=Views" alt="pierrefdz" /> </p>
 
-<h4 align="left">📫 How to reach me</h3>
-
+#### 📫 How to reach me
 
 <p align="left">
   <a href="mailto:pierre.fernandez@polytechnique.edu">
