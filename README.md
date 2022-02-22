@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="title.svg" width="400" height="400" alt="css-in-readme">
-</div>
 <h1 align="left">Pierre Fernandez, incoming PhD student at Inria and Meta AI.</h1>
 <h3 align="left">Curently working on watermarking for images and content protection.</h3>  
 
@@ -10,8 +7,8 @@
 
 
 <p align="left">
-  <a href="mailto:pierre.fernandez@polytechnique.edu" style="margin-right:10px">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
+  <a href="mailto:pierre.fernandez@polytechnique.edu">
+    <img style="margin-right:10px" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
   </a>
   <a href="https://twitter.com/pierrefdz" target="blank" style="margin-right:10px">
     <img src="https://img.shields.io/twitter/follow/pierrefdz?label=Twitter&logo=twitter&style=for-the-badge&colorA=302D41&colorB=96CDFB" alt="Twitter" />
