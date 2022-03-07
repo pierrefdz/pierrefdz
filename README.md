@@ -7,23 +7,23 @@ Curently working on watermarking for images and content protection.
 
 <p align="left">
   <a href="mailto:pierre.fernandez@polytechnique.edu">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=Mail.Ru&colorA=302D41&colorB=f7be95" alt="E-Mail" />
+    Mail
   </a>
   &nbsp;
   <a href="https://twitter.com/pierrefdz" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pierrefdz?label=Twitter&logo=twitter&style=for-the-badge&colorA=302D41&colorB=96CDFB" alt="Twitter" />
+    Twitter
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pierrefdz/" target="blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&colorA=302D41&colorB=89DCEB" alt="Linkedin" />
+    Linkedin
   </a>
   &nbsp;
   <a href="https://scholar.google.com/citations?user=osCX1YQAAAAJ" target="blank">
-    <img src="https://img.shields.io/badge/Scholar-E4405F?style=for-the-badge&logo=google-scholar&colorA=302D41&colorB=lightblue" alt="Google Scholar" />
+    Scholar
   </a>
   &nbsp;
   <a href="https://instagram.com/pics.with.ai" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&colorA=302D41&colorB=F28FAD" alt="Instagram" />
+    Insta
   </a>
 </p>
 
