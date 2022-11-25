@@ -6,7 +6,7 @@ Curently working on watermarking for images and content protection.
 #### 📫 How to reach me
 
 <p align="left">
-  <a href="mailto:pierre.fernandez@polytechnique.edu">
+  <a href="mailto:pierre.fernandez.2017@polytechnique.org">
     Mail
   </a>
   &nbsp;
