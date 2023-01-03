@@ -21,8 +21,4 @@ Curently working on watermarking for images and content protection.
   <a href="https://scholar.google.com/citations?user=osCX1YQAAAAJ" target="blank">
     Scholar
   </a>
-  &nbsp;
-  <a href="https://instagram.com/pics.with.ai" target="blank">
-    Insta
-  </a>
 </p>
