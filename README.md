@@ -6,9 +6,9 @@ Curently working on watermarking for images and content protection.
 #### 📫 How to reach me
 
 <p align="left">
-<!--   <a href="mailto:pierre.fernandez.2017@polytechnique.org">
+  <a href="mailto:pierre.fernandez@inria.fr">
     Mail
-  </a> -->
+  </a>
   &nbsp;
   <a href="https://twitter.com/pierrefdz" target="blank">
     Twitter
