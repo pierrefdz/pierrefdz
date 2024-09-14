@@ -1,5 +1,5 @@
-#### *PhD student at Inria and FAIR.*   
-Curently working on watermarking for generative models.
+#### *Research Scientist at FAIR*   
+Curently working on watermarking and content tracing.
 
 #### 📫 How to reach me
 
