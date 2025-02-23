@@ -4,10 +4,6 @@ Curently working on watermarking and content tracing.
 #### 📫 How to reach me
 
 <p align="left">
-  <a href="mailto:pierre.fernandez@inria.fr">
-    Mail
-  </a>
-  &nbsp;
   <a href="https://twitter.com/pierrefdz" target="blank">
     Twitter
   </a>
